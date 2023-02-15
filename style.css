@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+textarea {
+    border-radius: 0;
+    outline: none;
+    width: calc(100vw - 21px);
+    height: 50vh;
+}
+
+p, div {
+    font-family: 'Roboto', sans-serif;
+}
+
+span.highlight {
+    background-color: #1e90ff6F;
+    border-radius: 0.25rem;
+    
+}
