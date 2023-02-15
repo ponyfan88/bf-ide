@@ -1,4 +1,4 @@
 # bf-ide
-BrainFuck IDE
+Brainfuck IDE
 
 made with js, css, and html
